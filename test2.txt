@@ -1,1 +1,2 @@
 second test for git commands
+file modified
